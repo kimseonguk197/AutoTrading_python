@@ -42,7 +42,6 @@ from config.errorCode import *
 
 ​
 
-#강의 54강 들을 차례
 
 class Kiwoom(QAxWidget):
 
