@@ -1,2 +1,2 @@
 # autotrading
-Kiwoom api를 이용한 auto 트레이딩 시스템입니다.
+This repository uses the Kiwoom API.(korean Securities company)
